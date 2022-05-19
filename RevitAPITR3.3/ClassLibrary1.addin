@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\ClassLibrary1.dll"</Assembly>
+		<AddInId>A87454C9-1FD8-4EC2-A055-8D43F83F119D</AddInId>
+		<FullClassName>ClassLibrary1.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Длина труб с запасом</Text>
+	</AddIn>
+</RevitAddIns>
